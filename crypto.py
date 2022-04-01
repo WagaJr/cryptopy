@@ -1,5 +1,5 @@
 # A python cryptocurrency application
-# developed by: Benjamin Waga
+# developed by: WagaJr
 
 from tkinter import *
 import requests
